@@ -1,0 +1,209 @@
+.wrap{
+  width: 1360px
+
+}
+
+#header{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.h1doko{
+  font-weight: bold;
+}
+
+.hikouki{
+  width: 300px;
+  height: 30px;
+}
+
+.kyoto{
+  width: 1360px;
+  height: 700px;
+  background-image: url("../img/kyoto2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: rgba(46,98,36,0.85);
+  text-align: center;
+}
+
+.hokkai{
+  width: 1360px;
+  height: 700px;
+  background-image: url("../img/hokkaido01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: rgba(46,98,36,0.85);
+  text-align: center;
+}
+
+.osaka{
+  width: 1360px;
+  height: 700px;
+  background-image: url("../img/osaka01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: rgba(46,98,36,0.85);
+  text-align: center;
+}
+
+.kochi{
+  width: 1360px;
+  height: 700px;
+  background-image: url("../img/kochi01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: rgba(46,98,36,0.85);
+  text-align: center;
+}
+
+.okinawa{
+  width: 1360px;
+  height: 700px;
+  background-image: url("../img/umi2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: rgba(46,98,36,0.85);
+  text-align: center;
+}
+
+.tokyo{
+  width: 1360px;
+  height: 700px;
+  background-image: url("../img/tokyo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: rgba(46,98,36,0.85);
+  text-align: center;
+}
+
+.fukuoka{
+  width: 1360px;
+  height: 700px;
+  background-image: url("../img/fukuoka01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: rgba(46,98,36,0.85);
+  text-align: center;
+}
+
+.rest{
+  width: 1360px;
+  height: 700px;
+  background-image: url("../img/bed.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: rgba(46,98,36,0.85);
+  text-align: center;
+}
+
+.back-mainimg{
+  height: 100%;
+  background: rgba(255,255,255,0.5);
+}
+
+.h1{
+  font-size: 24px;
+  font-family: fantasy;
+  padding-top: 45px;
+  padding-bottom: 60px;
+}
+
+.placeimg{
+  display: flex;
+  justify-content: space-around;
+}
+
+.img1{
+  width: 600px;
+  height: 350px;
+  margin-left: 50px;
+}
+
+.img2{
+  width: 600px;
+  height: 350px;
+  margin-right: 50px;
+}
+
+.img3{
+  width: 600px;
+  height: 350px;
+}
+
+.ppp{
+  padding-top: 80px;
+}
+
+.buttondiv{
+  text-align: center;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;*/
+  width: 300px;
+  height: 150px;
+  margin: auto;
+}
+
+.kokobutton{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: #58ACFA;
+  border-radius: 6px;
+  border: 2px solid #58ACFA;
+  border-bottom: solid 4px #627295;
+  line-height: 30px;
+
+}
+
+.kokobutton:hover{
+  background-color: #fff;
+  border-color: #59b1eb;
+  border: 2px solid #59b1eb;
+  line-height: 30px;
+  border-bottom: solid 4px #59b1eb;
+}
+
+.kokobutton:active{
+  background-color: #bdbdbd;
+  border-color: #59b1eb;
+  border: 2px solid #59b1eb;
+  line-height: 30px;
+}
+
+.button{
+  display: block;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 70px;
+  padding-right: 70px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: メイリオ;
+  color: white;
+}
+
+.button:hover{
+  color: #59b1eb;
+}
+
+.button:active{
+  color:white;
+}
+
+
+#fotter{
+  width: 100vw;
+  height: 70px;
+  background-color: #A9D0F5;
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foth1{
+  color: white;
+}
